@@ -1,9 +1,9 @@
-def using_push (array,Stri)
-  array.push(Stri)
+def using_push (array,element)
+  array.push(element)
 end
 
-def using_unshift (array,Stri)
-  array.unshift(Stri)
+def using_unshift (array,element)
+  array.unshift(element)
 end
 
 def using_pop (array)
